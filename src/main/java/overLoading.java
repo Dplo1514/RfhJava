@@ -1,4 +1,4 @@
-public class overLoadingRiding {
+public class overLoading {
     public static void main(String[] args) {
 
     }
@@ -7,7 +7,7 @@ public class overLoadingRiding {
         return x + y + z;
     }
 
-    long add(int a , int b , int c){
+    long add(long a , int b , int c){
         return a + b + c;
     }
 }

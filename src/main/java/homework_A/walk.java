@@ -1,5 +1,5 @@
 package homework_A;
 
-public interface work {
-    void work(int x , int y);
+public interface walk {
+    void walk(int x , int y);
 }

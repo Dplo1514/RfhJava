@@ -5,167 +5,47 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67ced426-dd12-415a-a745-0102a640a33c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Abstract/Abstract01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Constructor/Constructor01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Constructor/Constructor02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DataType01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/DataType02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/HelloWorld01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/IfElse01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Inheritance/Inheritance01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Inheritance/OverLoading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Inheritance/OverRiding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Interface/Interface01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Loop01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Loop02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Loop03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Loop04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LoopQuiz01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LoopQuiz02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Modifier/Modifier01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Modifier/ModifierTest/ModifierTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ObjectConcept/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ObjectConcept/Method01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ObjectConcept/Method02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/QuizFamily/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/QuizFamily/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ReferenceDataTypeArray01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ReferenceDataTypeArray02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Switch01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TernaryOperator01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Variable01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ifElse02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Collectionpkg/Collection01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Collectionpkg/Collection02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Collectionpkg/Collection03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Collectionpkg/Collection04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Collectionpkg/Collection05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Collectionpkg/Collection06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Exception01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Exception02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExceptionQuiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Generics01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lamda01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NetworkService/Networking01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NetworkService/RetrofitClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/NetworkService/RetrofitService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/QuizFamily01/Children.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/QuizFamily01/GrandParents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/QuizFamily01/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/QuizFamily01/Parents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/QuizFamily01/People.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/QuizFamily01/Runable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/QuizFamily01/Swimable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/QuizFamily01/Walkable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stream01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stream02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stream03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Stream04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/StreamQuiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UsesJava01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UsesJava02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UsesJavaQuiz.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Bird.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Caculation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Flyable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Modi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Peacock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Phone.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Pigzone.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/RetrofitService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/Sale.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/absTract.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/arrayDeQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/child.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/dataTypeBoolean.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/dataTypeByte.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/dataTypeInt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/dataTypeStr.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/forEach.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/forQuiz.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/generics.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/homework_A/Human.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/homework_A/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/homework_A/child.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/homework_A/grandParent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/homework_A/parent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/homework_A/run.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/homework_A/swim.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/homework_A/walk.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/ifForDo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/ifForDoWhileQuiz.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/instance$Phone.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/instance.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/interFace.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/iphone.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/iphone11.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/lamda.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/li.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/map.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/method.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/modiferTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/newSet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/overLoading.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/overRiding.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/pigeon.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/pkg/Modifier.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/queue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/reduce.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/reference.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/referenceQuiz.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/retrofit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/retrofitClient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/set.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/stack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/stream.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/stream2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/stream3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/streamQuiz.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/timePkg.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/timePkg3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/timePkgQuiz.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/timepkg2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/tryCatch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/tryCatchQuiz$tryCatchQuiz0$ArrayCalculation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/tryCatchQuiz$tryCatchQuiz0$Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/tryCatchQuiz$tryCatchQuiz0.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/tryCatchQuiz.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/tryCatch_2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/QuizFamily/Child.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/QuizFamily/Child.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/QuizFamily/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/QuizFamily/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/RetrofitService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/absTract.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/arrayDeQueue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/child.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dataTypeBoolean.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dataTypeByte.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dataTypeInt.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dataTypeStr.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/forEach.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/forQuiz.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/generics.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework/homework.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework_A/Human.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework_A/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework_A/child.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework_A/grandParent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework_A/parent.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework_A/run.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework_A/swim.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/homework_A/walk.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ifForDo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ifForDoWhileQuiz.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/instance.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/interFace.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/lamda.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/li.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/map.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/method.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/modiferTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/newSet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/overLoading.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/overRiding.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pkg/Modifier.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/queue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/reduce.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/reference.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/referenceQuiz.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/retrofit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/retrofitClient.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/set.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stream.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stream2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stream3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/streamQuiz.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/timePkg.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/timePkg3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/timePkgQuiz.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/timepkg2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tryCatch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tryCatchQuiz.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tryCatch_2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/QuizFamily/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/QuizFamily/Human.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -176,6 +56,23 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="RfhJava" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -201,19 +98,25 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Abstract01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Abstract.Abstract01" />
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Networking01">
+    <configuration name="Networking01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NetworkService.Networking01" />
       <module name="RfhJava.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Abstract.*" />
+          <option name="PATTERN" value="NetworkService.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -221,65 +124,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Human" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="QuizFamily.Human" />
+    <configuration name="Stream02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stream02" />
       <module name="RfhJava.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="QuizFamily.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Interface01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Interface.Interface01" />
+    <configuration name="Stream03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stream03" />
       <module name="RfhJava.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Interface.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="QuizFamily.Main" />
+    <configuration name="Stream04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stream04" />
       <module name="RfhJava.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="QuizFamily.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ModifierTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Modifier.ModifierTest.ModifierTest" />
+    <configuration name="StreamQuiz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StreamQuiz" />
       <module name="RfhJava.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Modifier.ModifierTest.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Human" />
-        <item itemvalue="Application.Interface01" />
-        <item itemvalue="Application.Abstract01" />
-        <item itemvalue="Application.ModifierTest" />
+        <item itemvalue="Application.Networking01" />
+        <item itemvalue="Application.StreamQuiz" />
+        <item itemvalue="Application.Stream04" />
+        <item itemvalue="Application.Stream03" />
+        <item itemvalue="Application.Stream02" />
       </list>
     </recent_temporary>
   </component>
@@ -305,5 +184,8 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

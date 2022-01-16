@@ -50,7 +50,6 @@ class Child extends Human {
     public void run(int x, int y) { //달려가는 메서드
         this.x = x;
         this.y = y;
-
         x = speed + 2;
         y = speed + 2;
         printLocation();

@@ -5,47 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="67ced426-dd12-415a-a745-0102a640a33c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Collectionpkg/Collection01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Collectionpkg/Collection02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Collectionpkg/Collection03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Collectionpkg/Collection04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Collectionpkg/Collection05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Collectionpkg/Collection06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exception01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exception02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ExceptionQuiz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Generics01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Lamda01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NetworkService/Networking01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NetworkService/RetrofitClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/NetworkService/RetrofitService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/QuizFamily01/Children.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/QuizFamily01/GrandParents.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/QuizFamily01/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/QuizFamily01/Parents.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/QuizFamily01/People.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/QuizFamily01/Runable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/QuizFamily01/Swimable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/QuizFamily01/Walkable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Stream01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Stream02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Stream03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Stream04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/StreamQuiz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UsesJava01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UsesJava02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UsesJavaQuiz.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/QuizFamily/Child.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/QuizFamily/Child.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/QuizFamily/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/QuizFamily/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/QuizFamily/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/QuizFamily/Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ObjectConcept/Method02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ObjectConcept/Method02.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
